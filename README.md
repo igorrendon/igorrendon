@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Igor 👋
 
-<!--
-**igorrendon/igorrendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Science & Technology student at **UFRN** (Natal, Brazil), learning **back-end development** with the goal of building reliable systems with **Python, cloud and applied AI**.
 
-Here are some ideas to get you started:
+I learn by building, so this profile is my public logbook: every repository here is something I actually wrote, tested and can explain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Right now
+- Working through **CS50's Introduction to Programming with Python** (Harvard)
+- Practicing problem solving on **LeetCode / NeetCode**
+- Running a small business building websites for local businesses → [igorrendon.com](https://igorrendon.com)
+
+### 🗺️ Roadmap
+| Stage | Focus | Status |
+|---|---|---|
+| 1 | Python fundamentals, Git, Linux terminal | 🟡 In progress |
+| 2 | Back-end: HTTP, REST APIs, FastAPI, PostgreSQL, testing | ⚪ Next |
+| 3 | Cloud: Docker, AWS, CI/CD with GitHub Actions | ⚪ Planned |
+| 4 | Applied AI: LLM integration, RAG | ⚪ Planned |
+
+### 🛠️ Stack I'm working with
+`Python` · `Git` · `Linux` · `HTML/CSS`
+
+*(This list only grows when there's a project here to back it up.)*
+
+### 🌍 Languages
+Portuguese (native) · English (conversational)
+
+---
+
+### 📫 Contact
+- Website: [igorrendon.com](https://igorrendon.com)
+- Instagram: [@dev.igorrendon](https://instagram.com/dev.igorrendon)
+- Email: [contato@igorrendon.com](mailto:contato@igorrendon.com)
